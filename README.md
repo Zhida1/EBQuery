@@ -30,3 +30,17 @@ It's like [Heroku Dataclips](https://devcenter.heroku.com/articles/dataclips) bu
 
 EBQuery is a JavaEE application that's securely hosted on your servers. No data ever leaves your company!
 
+## <a name="requirements"/>Requirements
+
+EBQuery has the following minimum requirements:
+
+- Java 6
+- a Servlet container or application server (stand-alone option available)
+- a database server (embedded H2 database available)
+
+## <a name="getting-started"/>Getting started
+
+### Installation
+
+EBQuery can be built and installed as a standard web application archive (WAR). Any JavaEE 7 or JavaEE 6 servlet container should work.
+
