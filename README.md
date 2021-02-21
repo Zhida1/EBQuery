@@ -12,10 +12,6 @@
 
 **[Features](#features)**
 
-**[UI](#support)**
-
-**[Support](#support)**
-
 ## <a name="introduction"/>Introduction - Enterprise Backend as a Service
 
 EBQuery allows you to easily access databases through a REST API.
